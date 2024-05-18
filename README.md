@@ -1,80 +1,38 @@
-<<<<<<< HEAD
-# Getting Started with Create React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# Weather Website in React
 
-## Available Scripts
 
-In the project directory, you can run:
+ENGLİSH
 
-### `npm start`
+I would be pleased to present to you the practice application I made to learn how to build a weather website with React, gain experience in working with APIs and experience state transition.
+It is desired to gain experience in state management and API operation with the weather APIs provided by the free weatherapi.com. The data is called via its API.
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+TURKİSH (TÜRKÇE)
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+React ile hava durumu web sitesi yapımını öğrenmek, api'ler ile çalışma tecrübesi edinmek ve state geçişini tecrübe etmek için yapmış olduğum alıştırma uygulamasını sizlere sunmaktan keyif duyarım.
+Ücretsiz weatherapi.com tarafından sağlanan hava durumu api'leri ile state yönetimi ve api çalışması tecrübesi elde edilmek istenmektedir.Veriler API aracılığıyla çağrılmaktadır.
 
-### `npm test`
+SCREENSHOTS IN PC WEB 
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+![weather](https://github.com/halil-akalin/Weather-Website-in-React/assets/156447856/49816be6-65da-471a-b4d8-838bb15e09cd)
+When you first open the website, only the search box greets you. Then, when a location is searched, other components are loaded.
+![weather1](https://github.com/halil-akalin/Weather-Website-in-React/assets/156447856/e80d99c5-33db-4abc-90b3-4b1b18c5d377)
+![website2](https://github.com/halil-akalin/Weather-Website-in-React/assets/156447856/d213ec12-5ac3-497a-98ea-64c08a552ad1)
+![weather3](https://github.com/halil-akalin/Weather-Website-in-React/assets/156447856/b2f3c04f-3ab9-40ff-8bcd-0eabb1211897)
 
-### `npm run build`
+SCREENSHOTS IN MOBİL DEVİCE WEB
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+![mobil](https://github.com/halil-akalin/Weather-Website-in-React/assets/156447856/c58356fb-b08d-4685-b01e-558381c4e4cd)
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+When you first open the website, only the search box greets you. Then, when a location is searched, other components are loaded.
+![mobil1](https://github.com/halil-akalin/Weather-Website-in-React/assets/156447856/bda58552-7752-4185-ac8c-d444e41301e3)
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+![mobil2](https://github.com/halil-akalin/Weather-Website-in-React/assets/156447856/bf95463a-7eca-4844-901a-4e8a9820dbc3)
 
-### `npm run eject`
+![mobil3](https://github.com/halil-akalin/Weather-Website-in-React/assets/156447856/a802f3cd-2468-4d39-bb61-b95d09a0751e)
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+![mobil4](https://github.com/halil-akalin/Weather-Website-in-React/assets/156447856/ed7f0e7a-9a58-4ebc-9ba3-8858384edb52)
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+![mobil5](https://github.com/halil-akalin/Weather-Website-in-React/assets/156447856/f43f0122-43b2-4acd-96ec-0135a174fd16)
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
-=======
-# Weather-Website-in-React
-<<<<<<< HEAD
-I would be pleased to present to you the practice application. I made to learn how to build a weather website with React, gain experience in working with APIs and experience state transition.
->>>>>>> 78146b93296cdadb4c49daa46730cc6dda2b9210
-=======
-
-I would be pleased to present to you the practice application I made to learn how to build a weather website with React, gain experience in working with APIs, and experience state transition.
->>>>>>> 11d516712cc5202b627527f7b3657beed7c438b3
+![mobil6](https://github.com/halil-akalin/Weather-Website-in-React/assets/156447856/ef6f5ca3-3473-4504-ac9c-5a2b86939d2c)
