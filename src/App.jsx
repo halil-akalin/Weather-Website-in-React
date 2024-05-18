@@ -130,8 +130,3 @@ function App() {
 }
 
 export default App;
-
-
-// yazı tipini değiş güzel bir yazı tipi bul.
-//git le  ve github'a postala kafi oldu bence !!!
-
