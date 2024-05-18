@@ -24,7 +24,6 @@ SCREENSHOTS IN MOBİL DEVİCE WEB
 
 ![mobil](https://github.com/halil-akalin/Weather-Website-in-React/assets/156447856/c58356fb-b08d-4685-b01e-558381c4e4cd)
 
-When you first open the website, only the search box greets you. Then, when a location is searched, other components are loaded.
 ![mobil1](https://github.com/halil-akalin/Weather-Website-in-React/assets/156447856/bda58552-7752-4185-ac8c-d444e41301e3)
 
 ![mobil2](https://github.com/halil-akalin/Weather-Website-in-React/assets/156447856/bf95463a-7eca-4844-901a-4e8a9820dbc3)
